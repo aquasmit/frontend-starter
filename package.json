@@ -1,0 +1,30 @@
+{
+  "name": "frontend-starter",
+  "version": "0.0.1",
+  "description": "Gulp Starter",
+  "main": "index.html",
+  "scripts": {
+    "test": " ",
+    "postinstall" : "node_modules/.bin/bower install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aquasmit/frontend-starter.git"
+  },
+  "keywords": [
+    "gulp-starter",
+    "gulp-boilerplate",
+    "bower-starter"
+  ],
+  "author": "aquasmit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aquasmit/frontend-starter/issues"
+  },
+  "homepage": "https://github.com/aquasmit/frontend-starter#readme",
+  "devDependencies": {
+    "bower": "^1.5.2",
+    "gulp": "^3.9.0",
+    "gulp-livereload": "^3.8.0"
+  }
+}

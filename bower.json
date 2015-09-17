@@ -1,0 +1,28 @@
+{
+  "name": "frontend-starter",
+  "version": "0.0.1",
+  "homepage": "https://github.com/aquasmit/frontend-starter",
+  "authors": [
+    "aquasmit"
+  ],
+  "description": "Bower Starter",
+  "main": "index.html",
+  "keywords": [
+    "bower-starter",
+    "bower-boilerplate"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "bc",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.5",
+    "bootstrap": "~3.3.5",
+    "jquery": "~2.1.4"
+  }
+}
