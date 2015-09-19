@@ -38,7 +38,7 @@ bower list
 bower install --production
 ````
 
-####Uninstall bower package and update bower.json file
+#####Uninstall bower package and update bower.json file
 ````
 bower uninstall <package-name> --save
 ````
